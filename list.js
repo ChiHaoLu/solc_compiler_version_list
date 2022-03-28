@@ -1,4 +1,4 @@
-
+// https://github.com/ethereum/solc-bin/blob/gh-pages/bin/list.txt#L1408
 var soljsonSources = [
 "soljson-v0.8.14-nightly.2022.3.24+commit.c4909e99.js",
 "soljson-v0.8.14-nightly.2022.3.23+commit.b35cda59.js",
